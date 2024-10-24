@@ -22,7 +22,7 @@ friends = friends // 2
 print("friends:", friends)
 print("------")
 
-friends *= 2 
+friends *= 2     
 
 print("friends:", friends)
 print("------")
