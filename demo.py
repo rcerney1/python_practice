@@ -10,6 +10,7 @@ gpa = 3.8
 isStudent = True
 
 #printing f statements
+#f statements are similar to string interpolation i think
 print (f"Hello, {fullName}")
 print (f"You are {age} years old")
 print(f"Your gpa is {gpa}")
